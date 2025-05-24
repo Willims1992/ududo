@@ -48,6 +48,12 @@ footer{
     padding: 20px;
 }
 
+.header img{
+    width: 100px;
+    height: 30px;
+    
+}
+
 
 @media screen and (max-width: 600px) {
 
